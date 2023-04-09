@@ -1,0 +1,70 @@
+Machine Learning topics you should cover!
+This post describes the key model building topics that every aspiring data scientist should be able to describe and implement to become a Machine Learning Engineer
+
+Data Pre-Processing
+1. Projection
+- Principal Component Analysis (PCA)
+- Singular Value Decomposition (SVD)
+
+2. Feature Engineering
+
+Feature Selection
+
+Filter based methods
+Wrapper methods
+Embedding methods
+Feature Extraction
+
+Feature Scaling
+
+Standard Scaler
+MinMax Scaler
+3. Data Resampling
+- Undersampling
+- Oversampling
+
+4. Data imputation
+- Mean/Median imputer
+- Most Frequent imputer
+- KNN Imputer
+- MICE Imputer
+
+Regression
+
+Linear Regression            done
+Polynomial Regression        
+Ridge Regression         	done
+Lasso Regression			done
+Quantile Regression
+
+Classification			  done
+
+Logistic Regression             done 
+K-Nearest Neighbours (KNN)	  done
+Support Vector Machines (SVM)   done
+Naive Bayes                     done 
+Decision Tree classifier        done
+
+Clustering
+
+K-Means                        done
+Mixture Models
+
+Ensemble Learning
+ 
+Bagging                    done
+RandomForest               done
+Boosting
+Gradient Boost
+Ada Boost
+XG Boost
+Time Series Analysis
+
+Naive Approach
+Moving Average
+Simple Exponential Smoothing
+Holt's Linear Trend Model
+Holt's Winter Model
+ARIMA
+SARIMAX
+This list is based on my knowledge and experience and is limited to the model building aspects of Machine Learning. To get you started, take a look at the book The first course in machine learning by Mark Girolami and Simon Rogers
